@@ -1,1 +1,2 @@
 # simpleAI
+first python AI
